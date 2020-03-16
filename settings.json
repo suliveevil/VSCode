@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Default Light+",
+    "workbench.colorTheme": "Monokai Pro",
     "markdown.extension.tableFormatter.normalizeIndentation": true,
     "markdown.extension.toc.githubCompatibility": true,
     "markdown.extension.toc.orderedList": true,
@@ -11,7 +11,7 @@
     },
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "Monokai Pro Icons",
     "gitee.access_token": "0ee6eef9517c82f5d86b2e0cda98d8c3",
     "gitee.gist": "https://gitee.com/suliveevil/codes/f2gvdzul68ko7m4p5jtyi65",
     "kite.showWelcomeNotificationOnStartup": false,
