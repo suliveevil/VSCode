@@ -8,6 +8,7 @@
         "CoenraadS.bracket-pair-colorizer",
         "darkriszty.markdown-table-prettify",
         "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
         "donjayamanne.githistory",
         "eamodio.gitlens",
         "Equinusocio.vsc-community-material-theme",
