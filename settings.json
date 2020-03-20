@@ -18,5 +18,6 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "todo-tree.tree.showScanModeButton": false,
-    "todo-tree.highlights.enabled": true
+    "todo-tree.highlights.enabled": true,
+    "vim.easymotion": true
 }
