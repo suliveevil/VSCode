@@ -19,5 +19,12 @@
     "todo-tree.tree.showScanModeButton": false,
     "todo-tree.highlights.enabled": true,
     "vim.easymotion": true,
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "python.jediEnabled": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    }
 }
