@@ -15,8 +15,17 @@
 	"markdown-highlight": {
 		"prefix": "markk",
 		"body": [
-		  "<mark></mark>"
+			"<mark></mark>"
 		],
 		"description": "markdown-highlight"
-	  }
+	},
+	"Box": {
+		"prefix": "box",
+		"body": [
+			"┌${1:/./-/g}┐",
+			"|$1:|",
+			"└${1:/./-/g}┘"
+		],
+		"description": "regex in snippet"
+	}
 }
