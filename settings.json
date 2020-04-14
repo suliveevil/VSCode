@@ -26,5 +26,6 @@
     "python.jediEnabled": false,
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
-    }
+    },
+    "vsicons.dontShowNewVersionMessage": true
 }
