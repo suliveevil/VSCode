@@ -27,7 +27,7 @@
 		"description": "create textastic snippet Set"
 	},
 	"textastic snippet Context": {
-		"prefix": "tco,
+		"prefix": "tco",
 		"body": [
 			"{\n\t\"description\": \"${1:description}\",\n\t\"scope\":\"${2:source}.${3:python}\",\n\t\"pattern\":\"(${4:regex})\",\n\t\"completionCaptureIndex\":1,\n\t\"completionSetNames\":[\n\t\t\"${5:enviroment}.${6:situation}\"\n\t]\n}"
 		],
