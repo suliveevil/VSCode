@@ -30,11 +30,12 @@
         "Gruntfuggly.todo-tree",
         "hediet.debug-visualizer",
         "himanoa.Python-autopep8",
-        "HookyQR.beautify",
         "idleberg.hopscotch",
         "jdinhlife.gruvbox",
+        "jock.svg",
         "johnpapa.vscode-peacock",
         "jonsmithers.open-in-vim",
+        "kamikillerto.vscode-colorize",
         "kiteco.kite",
         "mdickin.markdown-shortcuts",
         "mervin.markdown-formatter",
@@ -54,12 +55,14 @@
         "msjsdiag.debugger-for-chrome",
         "naumovs.color-highlight",
         "nonoroazoro.syncing",
+        "OBKoro1.korofileheader",
         "oderwat.indent-rainbow",
         "pedrorgirardi.vscode-cljfmt",
         "pepri.subtitles-editor",
         "PKief.material-icon-theme",
         "rebornix.project-snippets",
         "redguardtoo.matchit",
+        "redhat.vscode-xml",
         "ritwickdey.LiveServer",
         "ryu1kn.partial-diff",
         "shd101wyy.markdown-preview-enhanced",
@@ -77,6 +80,7 @@
         "xabikos.JavaScriptSnippets",
         "xyz.local-history",
         "Ying.jsbox",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "zhouronghui.propertylist"
     ]
 }
