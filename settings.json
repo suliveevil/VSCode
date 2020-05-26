@@ -67,5 +67,6 @@
         }
     },
     "editor.wordWrap": "on",
-    "[bnf]": {}
+    "[bnf]": {},
+    "python.pythonPath": "C:\\Program Files\\Python38\\python.exe"
 }
